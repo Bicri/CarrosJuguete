@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica1", "Practica1\Practica1.csproj", "{5139C5CC-CD89-4F0C-9946-04045036B434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5139C5CC-CD89-4F0C-9946-04045036B434}.Debug|x86.ActiveCfg = Debug|x86
+		{5139C5CC-CD89-4F0C-9946-04045036B434}.Debug|x86.Build.0 = Debug|x86
+		{5139C5CC-CD89-4F0C-9946-04045036B434}.Release|x86.ActiveCfg = Release|x86
+		{5139C5CC-CD89-4F0C-9946-04045036B434}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+/home/bicri/Documentos/Escuela/NET/Semana 2/Practica/P1/P1/Practica1/Practica1/bin/Debug/Practica1.exe
+/home/bicri/Documentos/Escuela/NET/Semana 2/Practica/P1/P1/Practica1/Practica1/bin/Debug/Practica1.pdb
+/home/bicri/Documentos/Escuela/NET/Semana 2/Practica/P1/P1/Practica1/Practica1/obj/x86/Debug/Practica1.csprojAssemblyReference.cache
+/home/bicri/Documentos/Escuela/NET/Semana 2/Practica/P1/P1/Practica1/Practica1/obj/x86/Debug/Practica1.csproj.CoreCompileInputs.cache
+/home/bicri/Documentos/Escuela/NET/Semana 2/Practica/P1/P1/Practica1/Practica1/obj/x86/Debug/Practica1.exe
+/home/bicri/Documentos/Escuela/NET/Semana 2/Practica/P1/P1/Practica1/Practica1/obj/x86/Debug/Practica1.pdb
